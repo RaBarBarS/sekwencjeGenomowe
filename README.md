@@ -1,1 +1,2 @@
-# sekwencjeGenomowe
+Zaprojektuj i utwórz skrypt, który na podstawie informacji zawartych w pliku z adnotacjami wydobędzie sekwencje genów i zapisze je do pliku tak aby, sekwencje genów nici - zostały zapisane do pliku w kierunku 5'-3' (tj. odwrotnie komplementarnym) i sekwencja w pliku wynikowym była zawinięta do 60 znaków.
+zmodyfikuj skrypt, aby przyjmował on nazwy plików z systemowego wiersza poleceń oraz, aby użytkownik mógł również wpisać w poleceniu typ sekwencji: gene, CDS, transcript, exon.
